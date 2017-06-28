@@ -21,14 +21,14 @@ _WebkitProperties = [
 ]
 
 _BackdropProperties = [
-	["blur", "backgroundBlur", 0, "px"],
-	["brightness", "backgroundBrightness", 100, "%"],
-	["saturate", "backgroundSaturate", 100, "%"],
-	["hue-rotate", "backgroundHueRotate", 0, "deg"],
-	["contrast", "backgroundContrast", 100, "%"],
-	["invert", "backgroundInvert", 0, "%"],
-	["grayscale", "backgroundGrayscale", 0, "%"],
-	["sepia", "backgroundSepia", 0, "%"],
+	["blur", "backdropBlur", 0, "px"],
+	["brightness", "backdropBrightness", 100, "%"],
+	["saturate", "backdropSaturate", 100, "%"],
+	["hue-rotate", "backdropHueRotate", 0, "deg"],
+	["contrast", "backdropContrast", 100, "%"],
+	["invert", "backdropInvert", 0, "%"],
+	["grayscale", "backdropGrayscale", 0, "%"],
+	["sepia", "backdropSepia", 0, "%"],
 ]
 
 _Force2DProperties =
